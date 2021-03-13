@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61ddf2c7-ae92-4b33-8f56-8f161436f22e" name="Default Changelist" comment="" />
+    <list default="true" id="61ddf2c7-ae92-4b33-8f56-8f161436f22e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -76,7 +80,7 @@
       <workItem from="1615477023833" duration="666000" />
       <workItem from="1615490611934" duration="594000" />
       <workItem from="1615531764718" duration="11545000" />
-      <workItem from="1615621613034" duration="1234000" />
+      <workItem from="1615621613034" duration="1625000" />
     </task>
     <servers />
   </component>
@@ -88,6 +92,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614952220142" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1615624770418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615624770418" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1614955695539">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
